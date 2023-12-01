@@ -92,4 +92,4 @@ Hadamard Corporation are jointly responsible for any personal data collected by 
 
 
 </p>"
-![grafik](https://github.com/Hadamard/.github/assets/132300160/a65aab09-84c3-42d2-8409-be774c2146b0)
+
