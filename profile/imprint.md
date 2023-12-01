@@ -1,18 +1,18 @@
-" <h1>Corporate Information </h1>
+<h1>Corporate Information </h1>
            
-              <article>
-                <p>
-                  <br>  <header>Corporate Headquarters</header> <br>
-                  Hadamard Corporation <br>
-                  8206 Louisiana Blvd Ne, Ste A <br>
-                  Albuquerque, New Mexico 87113 <br>
-                  United States
-                </p>
-          
-                <p>
-                  <a href=""mailto:info@hadamard.com"">info@hadamard.com</a> <br>
-                  Tel. +49 (89) 3803 5491 <br>
-                  Fax +49 (69) 797 6664 <br><br>
+<article>
+<p>
+<br>  <header>Corporate Headquarters</header> <br>
+Hadamard Corporation <br>
+8206 Louisiana Blvd Ne, Ste A <br>
+Albuquerque, New Mexico 87113 <br>
+United States
+</p>
+
+<p>
+<a href=""mailto:info@hadamard.com"">info@hadamard.com</a> <br>
+Tel. +49 (89) 3803 5491 <br>
+Fax +49 (69) 797 6664 <br><br>
 
 
 
