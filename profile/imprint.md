@@ -91,5 +91,5 @@ Hadamard Corporation are jointly responsible for any personal data collected by 
 
 
 
-</p>"
+</p>
 
