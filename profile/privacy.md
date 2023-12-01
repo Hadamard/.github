@@ -1,7 +1,7 @@
 " <h1>Privacy Policy </h1>
               
-                 <article>
-                   <p>
+<article>
+<p>
 
 <header>Hadamard Corporation Privacy Policy.</header><br>
 Last updated: 19.08.2023<br><br>
