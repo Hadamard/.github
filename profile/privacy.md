@@ -169,5 +169,4 @@ Should you have any questions about our privacy practices or this Privacy Policy
 </p>
 
 
-</p>"
-![grafik](https://github.com/Hadamard/.github/assets/132300160/fc82da38-1aea-4305-86a2-0e74b468c074)
+</p>
